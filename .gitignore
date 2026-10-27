@@ -1,0 +1,15 @@
+# C 编译产物
+*.exe
+*.o
+*.obj
+*.out
+
+# 系统与编辑器
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# 依赖与日志
+node_modules/
+*.log
